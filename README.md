@@ -3,7 +3,9 @@ Programa que simula ser un banco hecho en C.
 
 video del programa: https://drive.google.com/file/d/13J_wHfr7SKmx9l2VbrpmKZQES1IKwM8W/view?usp=sharing
 
+
 Otros programas hechos en C:
+
 
 El ahorcado: https://drive.google.com/file/d/1qLoyOWc2mHmK-LNEFV0EJt-Op2nlFT-f/view?usp=sharing
 
